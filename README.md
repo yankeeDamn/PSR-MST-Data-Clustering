@@ -18,7 +18,7 @@ author = "Ali Saglam and Nurdan Akhan Baykan"
 }
 ```
 
-<img src="./images/Fig_2.jpg" height="100%" width="100%">
+<img src="./images/Fig_2.jpg" height="85%" width="85%">
 
 ### Dependence:
 The code depends on the following third-party libraries:
