@@ -18,7 +18,7 @@ author = "Ali Saglam and Nurdan Akhan Baykan"
 }
 ```
 
-<img src="./images/Fig_2.jpg" height="50%" width="50%">
+<img src="./images/Fig_2.jpg" height="100%" width="100%">
 
 ### Dependence:
 The code depends on the following third-party libraries:
@@ -40,11 +40,11 @@ python Demo_clustering.py
 
 ### Segmentation  fuction:
 
- ``labels = sequential_segmentation(data)`` -----> *m* = 3, *l* = "scale"
+ ``labels = sequential_clustering(data)`` -----> *m* = 3, *l* = "scale"
 
-``labels = sequential_segmentation(data, m = 4)`` -----> *l* = "scale"
+``labels = sequential_clustering(data, m = 4)`` -----> *l* = "scale"
 
-``labels = sequential_segmentation(data, m = 4, l = 10)``
+``labels = sequential_clustering(data, m = 4, l = 10)``
 
 
 ## Reference:
