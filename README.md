@@ -34,9 +34,9 @@ python Demo_clustering.py
 ```
 
 ### Parameters:
-*m* : The coefficient of the parameters *c* that calculated automatically using the differential of the PSR-MST in the [source paper](https://www.sciencedirect.com/science/article/abs/pii/S0167865516301192). If no value is given, the default value is ``3``.
+*``m``* : The coefficient of the parameters *``c``* that calculated automatically using the differential of the PSR-MST in the [source paper](https://www.sciencedirect.com/science/article/abs/pii/S0167865516301192). If no value is given, the default value is ``3``.
 
-*l* : The length of the scanning frame (sub-string) that scans through the PSR-MST. If no value is given, the default value is ``"scale"`` that computed by ``int( sqrt(datasize) / 2``).
+*``l``* : The length of the scanning frame (sub-string) that scans through the PSR-MST. If no value is given, the default value is ``"scale"`` that computed by ``int( sqrt(datasize) / 2``).
 
 ### Segmentation  fuction:
 
